@@ -6,12 +6,12 @@ var website_name = AI TOP UP
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link @aitopup12
+var telegram_channel_link  =@aitopup12
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link https://t.me/aitopup123
+var telegram_group_link https/tme/aitopup123
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
