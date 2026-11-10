@@ -95,9 +95,9 @@
     "wm": {
       "packages": [
         {
-          "label": "WEEKLY OFFER",
-          "name": "WEEKLY OFFER",
-          "price": 1
+          "label": "WEEKLY",
+          "name": "WEEKLY",
+          "price": 156
         },
         {
           "label": "2X WEEKLY",
